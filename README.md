@@ -22,8 +22,6 @@ This repository includes files with plain SQL that can be used to recreate a dat
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 
-- LinkedIn: [LinkedIn](hhttps://www.linkedin.com/in/davidlyangenda/)
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
